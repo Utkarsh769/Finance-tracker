@@ -18,3 +18,6 @@ Tailwind CSS
 * Personalized Financial Advice: Provides detailed financial advice based on user-specific financial data using OpenAI's GPT-4 model.
 
 * Responsive Design: Ensures a seamless experience across different devices.
+
+# Screenshort
+Screenshot 2025-05-14 134707.png
